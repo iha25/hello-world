@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>Amourinho is beautiful</h1>
+    <h1>Amourinho is beautiful man</h1>
     <p>Nous vous prions de bien vouloir renseigner les champs.</p>
     <hr>
      
