@@ -4,7 +4,7 @@
     <p>Nous vous prions de bien vouloir renseigner les champs.</p>
     <hr>
      
-    <label for="Name"><b>NomNuméro</b></label>
+    <label for="Name"><b>Nom-Numéro</b></label>
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
     
