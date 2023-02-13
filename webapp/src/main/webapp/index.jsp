@@ -4,11 +4,11 @@
     <p>Nous vous prions de bien vouloir renseigner les champs.</p>
     <hr>
      
-    <label for="Name"><b>Enter Name</b></label>
+    <label for="Name"><b>NomNuméro</b></label>
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
     
-    <label for="mobile"><b>Enter mobile</b></label>
+    <label for="mobile"><b>Enter mobilossss</b></label>
     <input type="text" placeholder="Enter moible number" name="mobile" id="mobile" required>
     <br>
 
@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Merci beaucoupxx tonton partout partout </h1>
-
+   <h1> Merci beaucoupxx tonton partout partout el mayabihossa </h1>
+    
   
 </form>
